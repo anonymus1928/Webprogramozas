@@ -2,7 +2,7 @@
 
 ## Elérhetőségek
 
-- Email: lx12ag@inf.elte.hu
+- Email: lx12ag[kukac]inf.elte.hu
 - a tárgy honlapja: https://webprogramozas.inf.elte.hu
 
 ## 10. kurzus
