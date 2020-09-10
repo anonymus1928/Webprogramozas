@@ -10,6 +10,8 @@ Csütörtök 10:00-12:00
 
 Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT916G-Ox6xgPDw-xomFnycys
 
+1. gyakorlat: https://youtu.be/gd3xk7c-qtU
+
 
 ## 2. kurzus (estis)
 Hétfő 17:00-18:30
