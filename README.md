@@ -19,3 +19,4 @@ Hétfő 17:00-18:30
 Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT90NmsEAkETIK8gI0Tp-RKlA
 
 1. gyakorlat: https://youtu.be/kHk1qz9A3G8
+2. gyakorlat: https://youtu.be/uU6VrnwhS20
