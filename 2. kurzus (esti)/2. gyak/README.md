@@ -45,8 +45,8 @@ Egy cég kezdő adatrögzítője nem volt éppen a toppon. Emiatt elég kusza le
     <h1>1. feladat</h1>
     <table></table>
     <hr>
-    <h1>2. feladat</h1>
-    <div id="feladat-2">
+    <h1>3. feladat</h1>
+    <div id="feladat-3">
         <ul>
             <li data-color="a728d2">Miksa Laura</li>
             <li data-color="a728d2">Bodnár Evelin</li>
