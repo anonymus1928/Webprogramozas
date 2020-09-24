@@ -8,7 +8,7 @@ Adott egy ```range``` beviteli mező.
 
 1. Alatta jelenítsd meg a csúszka aktuális értékét (gondolkozz el azon, hogy ehhez melyik esemény kell) és ezt jelenítsd is meg!
 
-2. Az aktuális érték alapján változtasd a számkijelző háttérszínét úgy, hogy a minimumnál legyen zöld (rgb(0,0,255)), a maximumnál pedig legyen piros (rgb(255,0,0)). Az egyszerűség kedvéért a range minimuma lehet 0, maximuma 255.
+2. Az aktuális érték alapján változtasd a számkijelző háttérszínét úgy, hogy a minimumnál legyen zöld (rgb(0,255,0)), a maximumnál pedig legyen piros (rgb(255,0,0)). Az egyszerűség kedvéért a range minimuma lehet 0, maximuma 255.
 
 ## 2. feladat - FAQ
 
