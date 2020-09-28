@@ -90,3 +90,44 @@ A következő funkciókat kell megvalósítanod:
   },
 ]
 ```
+
+### HTML
+```HTML
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Csoport ZH - NEPTUNKÓD</title>
+</head>
+<body>
+    <style>
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin-bottom: 2em;
+        }
+
+        th, td {
+            text-align: center;
+            width: 33.33%;
+        }
+
+        .kijelolve td {
+            font-weight: bold;
+            background-color: lightblue;
+        }
+    </style>
+    <table></table>
+
+    <button id="novel">+</button>
+    <button id="csokkent">-</button><br>
+    <button id="vegosszeg-gomb">Végösszeg kiszámítása</button>
+    <div id="vegosszeg">Végösszeg:</div>
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
+```
