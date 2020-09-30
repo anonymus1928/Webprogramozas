@@ -23,3 +23,4 @@ Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT90NmsEAkETIK8gI0Tp
 1. gyakorlat: https://youtu.be/kHk1qz9A3G8
 2. gyakorlat: https://youtu.be/uU6VrnwhS20
 3. gyakorlat: https://youtu.be/mHD66lZHuiw
+4. gyakorlat: https://youtu.be/at7EoeNvq2Q
