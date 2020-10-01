@@ -13,6 +13,7 @@ Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT916G-Ox6xgPDw-xomF
 1. gyakorlat: https://youtu.be/gd3xk7c-qtU
 2. gyakorlat: https://youtu.be/U7aUzDk0fC8
 3. gyakorlat: https://youtu.be/mHD66lZHuiw
+4. gyakorlat: https://youtu.be/otfKJ3hwWDM
 
 
 ## 2. kurzus (estis)
