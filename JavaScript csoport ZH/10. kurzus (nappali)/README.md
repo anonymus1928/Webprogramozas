@@ -45,7 +45,7 @@ A következő funkciókat kell megvalósítanod:
   - Részpont: Csak az alkalmazottak nevei vannak felsorolva. (1 pont)
   - Bónusz: Ezt a juttatást is adó terheli, számítsd ki, hogy összesen mennyi adót kell fizetnie a cégnek ezen pótlék után. (+2 pont, összesen 10 fölé nem mehetsz, szorgalmi pontokba számítom bele, ha túlléped a 10 pontot)
     - Az adó mértéke 15% (```utazasi_potlek * 0,15```)
-- A táblázat legenerálása JSON alapján történik. A JSON módosítása esetén a táblázat is eképpen generálódik le. (+1 pont, csak akkor, ha még nem érted a maximális 10 pontot, nem vihető át a szorgalmi pontokhoz)
+- A táblázat legenerálása JSON alapján történik. A JSON módosítása esetén a táblázat is eképpen generálódik le. (+1 pont, csak akkor, ha még nem érted el a maximális 10 pontot, nem vihető át a szorgalmi pontokhoz)
 
 ### Példa a táblázatra
 
