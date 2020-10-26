@@ -1,5 +1,7 @@
 # RASZTERGRAFIKA HASZNÁLATA – FLAPPY BIRD
 
+[Eredeti feladatleírás](http://webprogramozas.inf.elte.hu/#!/subjects/webprog-pti/gyak/flappybird/flappybird)
+
 Készíts egy Flappy bird jellegű játékot! Legyen egy madár, aminek a közeledő oszlopokon kell áthaladnia az oszlopok érintése nélkül. A madár lefele zuhan, de gombnyomásra felugrik egy kicsit!
 
 A megoldáshoz a [böngészők rasztergrafikus megjelenítőjét, a canvas-t (rajzvászon)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) fogjuk használni!
