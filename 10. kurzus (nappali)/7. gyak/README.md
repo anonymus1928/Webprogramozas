@@ -279,7 +279,7 @@ function jatekciklus(now = 0) {
 
 **Képek gyűjteménye és betöltése:**
 
-[Képek letöltése](https://github.com/anonymus1928/Webprogramozas/tree/master/2.%20kurzus%20(esti)/7.%20gyak/flappy_images.zip)
+[Képek letöltése](https://github.com/anonymus1928/Webprogramozas/tree/master/10.%20kurzus%20(esti)/7.%20gyak/flappy_images.zip)
 
 ``` javascript
 const kepek = {
