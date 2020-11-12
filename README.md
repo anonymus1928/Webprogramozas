@@ -18,6 +18,7 @@ Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT916G-Ox6xgPDw-xomF
 6. gyakorlat: https://youtu.be/lWSGPj7GQ3M
 7. gyakorlat: https://youtu.be/w_IOElDqEcA
 8. gyakorlat: https://youtu.be/8nuDEqrxKIs
+9. gyakorlat: https://youtu.be/j_miujm-Nw4
 
 
 ## 2. kurzus (estis)
