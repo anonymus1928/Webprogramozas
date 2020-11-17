@@ -6,7 +6,7 @@ Munkahelyeden, az Elektromos Tolószékgyártó Kft-nél (röviden csak ELTO) az
 
 ## Feladat
 
-A lenti JSON ```szamitogepek``` tartalmazza a domainbe léptetett számítógépek adatait és azon felhasználók azonosítóit, akik az adott klienst használják. A ```felhasznalok``` pedig tartalmazza a cégnél dolgozók neveit és azonosítójukat.
+A lenti JSON-ben a ```szamitogepek``` tartalmazza a domainbe léptetett számítógépek adatait és azon felhasználók azonosítóit, akik az adott klienst használják. A ```felhasznalok``` pedig tartalmazza a cégnél dolgozók neveit és azonosítójukat.
 
 Végezd el a következő feladatokat:
 - Legyen egy beviteli mező, ahol kereshető a számítógép neve (Kereső)
@@ -27,60 +27,21 @@ Végezd el a következő feladatokat:
 
 ## Példa a táblázatra
 
-<table>
-    <tr>
-        <th>Számítógép</th>
-        <th>IP</th>
-        <th>MAC</th>
-        <th>Felhasználók</th>
-    </tr>
-    <tr style="background-color: blue">
-        <td>ugyvezeto</td>
-        <td>192.168.10.10</td>
-        <td>1d-9f-59-43-28-a8</td>
-        <td>Miksa Laura</td>
-    </tr>
-    <tr style="background-color: green">
-        <td>kereskedelem-01</td>
-        <td>192.168.10.11</td>
-        <td>92-ad-45-91-09-4d</td>
-        <td>Bodnár Evelin<br>Takács Szabina</td>
-    </tr>
-    <tr style="background-color: green">
-        <td>kereskedelem-02</td>
-        <td>192.168.10.12</td>
-        <td>d6-36-28-42-1a-93</td>
-        <td>Bodnár Evelin<br>Takács Szabina</td>
-    </tr>
-    <tr style="background-color: red">
-        <td>tamogatas-01</td>
-        <td>192.168.10.13</td>
-        <td>8b-47-e3-cf-46-93</td>
-        <td>Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya</td>
-    </tr>
-    <tr style="background-color: red">
-        <td>tamogatas-02</td>
-        <td>192.168.10.14</td>
-        <td>44-75-94-db-6c-fb</td>
-        <td>Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya</td>
-    </tr>
-    <tr style="background-color: red">
-        <td>tamogatas-03</td>
-        <td>192.168.10.15</td>
-        <td>eb-3a-02-9e-ce-f4</td>
-        <td>Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya</td>
-    </tr>
-    <tr style="background-color: red">
-        <td>informatika</td>
-        <td>192.168.10.16</td>
-        <td>e7-af-28-99-b0-cc</td>
-        <td>Somogyi Richárd</td>
-    </tr>
-</table>
+Számítógép | IP | MAC | Felhasználók | \[sor színe\]
+---------- | -- | --- | ------------ | -------------
+ugyvezeto | 192.168.10.10 | 1d-9f-59-43-28-a8 | Miksa Laura | \[kék\]
+kereskedelem-01 | 192.168.10.11 | 92-ad-45-91-09-4d | Bodnár Evelin<br>Takács Szabina | \[zöld\]
+kereskedelem-02 | 192.168.10.12 | d6-36-28-42-1a-93 | Bodnár Evelin<br>Takács Szabina | \[zöld\]
+tamogatas-01 | 192.168.10.13 | 8b-47-e3-cf-46-93 | Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya | \[piros\]
+tamogatas-02 | 192.168.10.14 | 44-75-94-db-6c-fb | Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya | \[piros\]
+tamogatas-03 | 192.168.10.15 | eb-3a-02-9e-ce-f4 | Faragó Zoltán<br>Csatár Marcell<br>Antal Dorottya | \[piros\]
+informatika | 192.168.10.16 | e7-af-28-99-b0-cc | Somogyi Richárd | \[piros\]
+
+*Az utolsó oszlopot természetesen nem kell kiírni, csak a github markdown-ja eléggé korlátozott formázás szempontjából...*
 
 ## Induló kód
 
-```json
+```JSON
 {
     "szamitogepek": [
         {
@@ -136,43 +97,43 @@ Végezd el a következő feladatokat:
     "felhasznalok": {
         "0": {
             "id": "0",
-            "nev": "Miksa Laura",
+            "nev": "Miksa Laura"
         },
         "1": {
             "id": "1",
-            "nev": "Bodnár Evelin",
+            "nev": "Bodnár Evelin"
         },
         "2": {
             "id": "2",
-            "nev": "Faragó Zoltán",
+            "nev": "Faragó Zoltán"
         },
         "3": {
             "id": "3",
-            "nev": "Csatár Marcell",
+            "nev": "Csatár Marcell"
         },
         "4": {
             "id": "4",
-            "nev": "Antal Dorottya",
+            "nev": "Antal Dorottya"
         },
         "5": {
             "id": "5",
-            "nev": "Balázs Melinda",
+            "nev": "Balázs Melinda"
         },
         "6": {
             "id": "6",
-            "nev": "Kis Bence",
+            "nev": "Kis Bence"
         },
         "7": {
             "id": "7",
-            "nev": "Major Károly",
+            "nev": "Major Károly"
         },
         "8": {
             "id": "8",
-            "nev": "Takács Szabina",
+            "nev": "Takács Szabina"
         },
         "9": {
             "id": "9",
-            "nev": "Somogyi Richárd",
+            "nev": "Somogyi Richárd"
         },
     }
 }
