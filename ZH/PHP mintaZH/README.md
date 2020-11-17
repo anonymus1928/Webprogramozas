@@ -92,7 +92,7 @@ informatika | 192.168.10.16 | e7-af-28-99-b0-cc | Somogyi Richárd | \[piros\]
             "ip": "192.168.10.16",
             "mac": "e7-af-28-99-b0-cc",
             "felhasznalok": ["8", "9"]
-        },
+        }
     ],
     "felhasznalok": {
         "0": {
@@ -134,7 +134,7 @@ informatika | 192.168.10.16 | e7-af-28-99-b0-cc | Somogyi Richárd | \[piros\]
         "9": {
             "id": "9",
             "nev": "Somogyi Richárd"
-        },
+        }
     }
 }
 ```
