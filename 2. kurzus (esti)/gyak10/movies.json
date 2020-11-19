@@ -1,0 +1,73 @@
+{
+    "1": {
+        "id": 1,
+        "title": "K\u00e9mes\u00edtve",
+        "year": 2019,
+        "genre": [
+            "anim\u00e1ci\u00f3",
+            "v\u00edgj\u00e1t\u00e9k"
+        ],
+        "like": [],
+        "dislike": [],
+        "create": "Admin"
+    },
+    "2": {
+        "id": 2,
+        "title": "Star Wars: A Birodalom visszav\u00e1g",
+        "year": 1980,
+        "genre": [
+            "sci-fi",
+            "kaland"
+        ],
+        "like": [],
+        "dislike": [],
+        "create": "Admin"
+    },
+    "3": {
+        "id": 3,
+        "title": "Jumanji: A k\u00f6vetkez\u0151 szint",
+        "year": 2019,
+        "genre": [
+            "kaland",
+            "v\u00edgj\u00e1t\u00e9k"
+        ],
+        "like": [],
+        "dislike": [],
+        "create": "Admin"
+    },
+    "4": {
+        "id": 4,
+        "title": "Az utols\u00f3 l\u00e9ghajl\u00edt\u00f3",
+        "year": 2010,
+        "genre": [
+            "csal\u00e1di",
+            "fantasy"
+        ],
+        "like": [],
+        "dislike": [],
+        "create": "Admin"
+    },
+    "5": {
+        "id": 5,
+        "title": "Verd\u00e1k",
+        "year": 2006,
+        "genre": [
+            "anim\u00e1ci\u00f3",
+            "v\u00edgj\u00e1t\u00e9k"
+        ],
+        "like": [],
+        "dislike": [],
+        "create": "Admin"
+    },
+    "6": {
+        "id": 6,
+        "title": "Mandalorian",
+        "year": "2019",
+        "genre": [],
+        "like": [],
+        "dislike": [
+            "almaaa"
+        ],
+        "create": "almaaa"
+    }
+}
