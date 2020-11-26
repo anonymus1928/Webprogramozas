@@ -205,10 +205,10 @@ Szobaszám | Típus    | Vendégek                         | Összesen fizetend�
         }
     ],
     "szobaarak": {
-        "standard": "10000",
-        "superior": "20000",
-        "deluxe": "30000",
-        "president": "40000"
+        "standard": 10000,
+        "superior": 20000,
+        "deluxe": 30000,
+        "president": 40000
     }
 }
 ```
