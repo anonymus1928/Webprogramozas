@@ -39,3 +39,4 @@ Gyakorlatok: https://www.youtube.com/playlist?list=PLkIuuhyjdT90NmsEAkETIK8gI0Tp
 9.  gyakorlat: https://youtu.be/_DcyjHEFCkI
 10. gyakorlat: https://youtu.be/xH9rwR9U0LM
 11. gyakorlat: https://youtu.be/tVLezNkDiOU
+12. gyakorlat: https://youtu.be/qZo8V8y13JI
