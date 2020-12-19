@@ -74,11 +74,12 @@ if(!isset($_SESSION['g']) || !isset($_SESSION['s'])) {
             xhr.setRequestHeader('Content-Type', 'application/json');
             xhr.send(JSON.stringify({
                 action: "income",
-                g: gold,
-                s: silver
+                g: gold.value,
+                s: silver.value
             }));
             xhr.addEventListener('readystatechange', () => {
                 if(xhr.readyState == 4) {
+                    console.log(xhr.responseText);
                     const json = JSON.parse(xhr.responseText);
 
                     if(json.status == 'ok') {
@@ -111,11 +112,11 @@ if(!isset($_SESSION['g']) || !isset($_SESSION['s'])) {
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: {
+                body: JSON.stringify({
                     action: "spend",
-                    g: gold,
-                    s: silver
-                }
+                    g: gold.value,
+                    s: silver.value
+                })
             });
             const eredmeny = await valasz.json();
             

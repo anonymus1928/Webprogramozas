@@ -3,7 +3,7 @@
 session_start();
 
 // Ha POST metodust használunk és JSON formátumban adjuk át a paramétereket, akkor kell ez a sor:
-$_POST = json_decode(file_get_contents('php://input'), true);
+$_GET = json_decode(file_get_contents('php://input'), true);
 
 // Ha a bemenet 0g 0s, akkor vissza is térhetünk, nincs mit kiszámolni.
 if($_GET['s'] == 0 && $_GET['g'] == 0) {
