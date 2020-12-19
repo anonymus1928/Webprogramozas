@@ -1,0 +1,20 @@
+{
+    "5fde60dd5005a": {
+        "name": "Alma",
+        "amount": 25,
+        "color": "piros",
+        "keep": true
+    },
+    "5fde60e7e3e91": {
+        "name": "K\u00f6rte",
+        "amount": 14,
+        "color": "s\u00e1rga",
+        "keep": true
+    },
+    "5fde60f5daa1e": {
+        "name": "Lyukas bakancs",
+        "amount": 1,
+        "color": "k\u00e9k",
+        "keep": false
+    }
+}
